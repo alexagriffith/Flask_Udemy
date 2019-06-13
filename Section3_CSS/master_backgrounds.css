@@ -1,0 +1,24 @@
+/* body{
+  background: url(https://cdn.mos.cms.futurecdn.net/v8HisSjNzVRMSYfVDkac6e-602-80.jpg);
+  background-repeat: no-repeat;
+} */
+
+
+div{
+  background: blue;
+  border: red 10px dashed;
+  /*border: orange;
+  border-width: medium;
+  border-style: dotted; */
+}
+
+/* can also use pixels for border-width */
+
+p{
+  color:yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}

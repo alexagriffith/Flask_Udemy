@@ -1,0 +1,15 @@
+.firstDiv{
+  color:blue;
+}
+
+.secondDiv{
+  background-color: grey;
+}
+
+/* classes have a period in the beginning */
+
+#singledout{
+  color: red;
+}
+
+/* id's have a hashtage in the beginning */

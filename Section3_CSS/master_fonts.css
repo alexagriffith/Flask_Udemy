@@ -1,0 +1,18 @@
+h1{
+  font-family: 'Caveat', cursive;
+}
+
+p{
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#two{
+  font-weight: bold;
+
+}
+
+ /* fonts.google.com */
